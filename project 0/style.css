@@ -1,0 +1,22 @@
+.body{
+    background-color: rgb(150, 0, 250);
+}
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+
+.background{
+    background-origin: linear, from(rgb(73, 0, 107)), to(rgb(0, 0, 0));
+} 
+
+
+.carousel {
+    position: relative;
+    background-origin: padding-box;
+    border: 5px
+}
+
+.container {
+    max-height: 200px
+}
